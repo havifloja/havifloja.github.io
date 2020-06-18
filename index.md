@@ -2,5 +2,7 @@
 The flash is the fastest man alive. I like his speed.
 
 ## traits
-is fast
+ * is fast
+ * is nice
+ * is very fast
 
