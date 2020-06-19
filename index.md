@@ -1,12 +1,10 @@
-# My favorite characters
-The flash is the fastest man alive. I like his speed.
+# Snail Flash
+The snail flash is the fastest snail alive. 
 
 ## traits
  * is fast
- * is nice
- * is very fast
 
-> I am the fastest man alive
+> I am the fastest snail alive
 
 <img src="https://images.pexels.com/photos/87021/snail-animal-leaf-green-87021.jpeg"/>
 
